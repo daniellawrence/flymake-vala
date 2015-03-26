@@ -58,8 +58,7 @@
   (flymake-easy-load 'flymake-vala-command
                      flymake-vala-err-line-patterns
                      'tempdir
-                     "vala")
- 
+                     "vala"))
 
 (provide 'flymake-vala)
 ;;; flymake-vala.el ends here
